@@ -1,1 +1,3 @@
-# odin-recipes
+I just learned some basic HTML tags and will use them in this website that contains a few recipes! 
+
+Some reflection later...
