@@ -1,3 +1,1 @@
-I just learned some basic HTML tags and will use them in this website that contains a few recipes! 
-
-Some reflection later...
+A simple website by a student of The Odin Project that contains some equally simple dishes for everyone to make! Over the course of building this website, I had experience the workflow that a web developer might be experiencing in his/her daily life. For example, for the first time in my experience in working with text files, I used both Git and GitHub to record my progress/keep track of my project. This project enabled me to practice my knowledge on basic HTML elements which includes the boilerplate elements, the lists elements, the links and also the strong and em element. Overall, had fun with my first project with The Odin Project!
