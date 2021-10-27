@@ -1,5 +1,5 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #fff3b0;
     color: #335c67;
@@ -10,4 +10,8 @@ body{
     background-color: #335c67;
     color: #fff3b0;
     font-size: 50px;
+}
+
+.pages{
+    text-align: center;
 }
