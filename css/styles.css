@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #fff3b0;
+    color: #335c67;
+    font-size: 30px;
+}
+
+.headers{
+    background-color: #335c67;
+    color: #fff3b0;
+    font-size: 50px;
+}
